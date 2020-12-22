@@ -13,6 +13,7 @@
 @@||0xxx.ws^$important
 @@||1337x.to^$important
 @@||1fichier.com^$important
+@@||22pixx.xyz^$important
 @@||4shared.com^$important
 @@||a.idio.co^$important
 @@||a.nel.cloudflare.com^$important
@@ -201,6 +202,7 @@
 @@||cdn.discordapp.com^$important
 @@||cdn.flowplayer.com^$important
 @@||cdn.mwbsys.com^$important
+@@||cdn.sstatic.net^$important
 @@||cdn.us.playstation.com^$important
 @@||cdn.ziffstatic.com^$important
 @@||cdn0.woolworths.media^$important
@@ -729,6 +731,7 @@
 @@||pornhub.com^$important
 @@||pornhubpremium.com^$important
 @@||pornone.com^$important
+@@||porntrex.com^$important
 @@||premium.soundcloud.com^$important
 @@||press.soundcloud.com^$important
 @@||press.vimeo.com^$important
@@ -835,6 +838,7 @@
 @@||static.soundcloud.com^$important
 @@||static.twitchcdn.net^$important
 @@||staticcdn.duckduckgo.com^$important
+@@||statics.cdntrex.com^$important
 @@||status.github.com^$important
 @@||status.playstation.com^$important
 @@||status.plex.tv^$important
@@ -847,6 +851,7 @@
 @@||stockservice.vimeo.com^$important
 @@||storage.cloud.google.com^$important
 @@||storage.googleapis.com^$important
+@@||store-images.s-microsoft.com^$important
 @@||store.acer.com^$important
 @@||store.apple.com^$important
 @@||store.kaspersky.com^$important
@@ -856,6 +861,7 @@
 @@||store.sony.com^$important
 @@||store.steampowered.com^$important
 @@||store.xbox.com^$important
+@@||storeedgefd.dsx.mp.microsoft.com^$important
 @@||suporte.br.playstation.com^$important
 @@||support.asia.playstation.com^$important
 @@||support.cloudflare.com^$important
@@ -880,6 +886,7 @@
 @@||target.com^$important
 @@||teams.microsoft.com^$important
 @@||telemetry.malwarebytes.com^$important
+@@||tempm.com^$important
 @@||theantisocialengineer.com^$important
 @@||themes.mozilla.org^$important
 @@||thewindowsclub.com^$important
