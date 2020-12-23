@@ -199,6 +199,7 @@
 @@||cdn-images.xda-developers.com^$important
 @@||cdn.chocolatey.org^$important
 @@||cdn.cloudflare.net^$important
+@@||cdn.cloudflare.steamstatic.com^$important
 @@||cdn.discordapp.com^$important
 @@||cdn.flowplayer.com^$important
 @@||cdn.mwbsys.com^$important
@@ -249,6 +250,7 @@
 @@||coles.com.au^$important
 @@||collector.githubapp.com^$important
 @@||commons.wikipedia.com^$important
+@@||community.cloudflare.steamstatic.com^$important
 @@||community.eu.playstation.com^$important
 @@||community.hulu.com^$important
 @@||community.jp.playstation.com^$important
@@ -544,6 +546,7 @@
 @@||io.playstation.com^$important
 @@||ios.nccp.netflix.com^$important
 @@||ios.soundcloud.com^$important
+@@||ipv6check-http.steamcontent.com^$important
 @@||irc-ws.chat.twitch.tv^$important
 @@||irc.chat.twitch.tv^$important
 @@||irc.twitch.tv^$important
@@ -785,6 +788,7 @@
 @@||secured.netflix.com^$important
 @@||seed*.debrid.link^$important
 @@||seedr.cc^$important
+@@||service.weather.microsoft.com^$important
 @@||share.dmca.gripe^$important
 @@||shop.lego.com^$important
 @@||sign-in.soundcloud.com^$important
@@ -854,6 +858,7 @@
 @@||store-images.s-microsoft.com^$important
 @@||store.acer.com^$important
 @@||store.apple.com^$important
+@@||store.cloudflare.steamstatic.com^$important
 @@||store.kaspersky.com^$important
 @@||store.mozilla.org^$important
 @@||store.nvidia.com^$important
