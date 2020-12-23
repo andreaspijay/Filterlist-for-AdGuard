@@ -1,3 +1,5 @@
+@@||*.*.github.com^$important
+@@||*.*.ebay.*^$important
 @@||*.*.pool.ntp.org^$important
 @@||*.battle.net^$important
 @@||*.deviantart.com^$important
