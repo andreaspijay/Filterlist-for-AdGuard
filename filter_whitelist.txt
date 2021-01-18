@@ -1,3 +1,4 @@
+@@||*.duckdns.org^$important
 @@||*.*.ott.kaltura.com^$important
 @@||*.*.akamai.net^$important
 @@||*.*.akamaiedge.net^$important
