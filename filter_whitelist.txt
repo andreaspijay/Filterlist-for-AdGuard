@@ -2,6 +2,7 @@
 @@||*.*.akamai.net^$important
 @@||*.*.akamaiedge.net^$important
 @@||*.*.cloudfront.net^$important
+@@||*.cloudfront.net^$important
 @@||*.*.vodafone.gr^$important
 @@||*.*.vtvanalytics.com^$important
 @@||*.*.github.com^$important
